@@ -316,7 +316,7 @@ answer_nine()
 
 
 # In[32]:
-
+'''
 def plot9():
     import matplotlib as plt
     get_ipython().magic('matplotlib inline')
@@ -330,7 +330,7 @@ def plot9():
 # In[33]:
 
 plot9()
-
+'''
 
 # ### Question 10 (6.6%)
 # Create a new column with a 1 if the country's % Renewable value is at or above the median for all countries in the top 15.
@@ -479,7 +479,7 @@ answer_thirteen()
 # Use the built in function `plot_optional()` to see an example visualization.
 
 # In[17]:
-
+'''
 def plot_optional():
     import matplotlib as plt
     get_ipython().magic('matplotlib inline')
@@ -497,4 +497,4 @@ def plot_optional():
 # In[18]:
 
 #plot_optional()
-
+'''
