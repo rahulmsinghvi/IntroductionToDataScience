@@ -7,3 +7,5 @@ Week-1 does not have any use case in its assignment, hence it is empty.
 Next 3 weeks folder consists of its assignemnts
 
 Weekly folder also consists of few practice iPython notebooks which covers basics of pandas. Its naming convention is Week().ipynb
+
+The course is compiled and executed in Python 2.7
