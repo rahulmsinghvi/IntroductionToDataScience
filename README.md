@@ -1,4 +1,4 @@
-# Introductiontodatascience
+# Introduction to datascience
 
 This repository consists of coding examples for "Introduction to Data Science in Python" (https://www.coursera.org/learn/python-data-analysis/home) course on Coursera.
 Coding is done in Python and implemented with Pandas library.
