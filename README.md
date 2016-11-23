@@ -6,4 +6,4 @@ All the course resources are available in DataFiles folder.
 Week-1 does not have any use case in its assignment, hence it is empty.
 Next 3 weeks folder consists of its assignemnts
 
-DataFiles folder also consists of few practice iPython notebooks which covers basics of pandas. Its naming convention is Week().ipynb
+Weekly folder also consists of few practice iPython notebooks which covers basics of pandas. Its naming convention is Week().ipynb
